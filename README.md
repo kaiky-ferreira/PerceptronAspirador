@@ -1,7 +1,7 @@
 # 🤖 Perceptron – Aspirador Inteligente (AI 2025 • UNIBH)
 
 **Disciplina:** Inteligência Artificial – Trilha Computação  
-**Prof.:** Fabrício Valadares, Alexandre “Montanha”  
+**Prof.:** Fabrício Valadares 
 **Local:** Belo Horizonte/MG – Centro Universitário de Belo Horizonte UNiBH
 
 ---
