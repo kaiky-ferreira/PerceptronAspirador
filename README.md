@@ -2,6 +2,7 @@
 
 **Disciplina:** Inteligência Artificial – Trilha Computação  
 **Prof.:** Fabrício Valadares 
+
 **Local:** Belo Horizonte/MG – Centro Universitário de Belo Horizonte UNiBH
 
 ---
