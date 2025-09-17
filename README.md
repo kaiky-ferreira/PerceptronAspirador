@@ -186,5 +186,5 @@ matplotlib>=3.8  # (se for gerar gráfico bônus)
 
 ## 👥 Time e créditos
 Projeto desenvolvido conforme a atividade prática de **IA 2025 – UNIBH**.  
-**Autores:** Maria Clara Palhares (Mariacpdb), Kaíky (Kaíky-Ferreira), Yris (Yrisgabrielle),Gabriel (ShugZin), Breno Yohan (Gu4xin), Laysa (Laysa-eSerrão).
+**Autores:** Maria Clara Palhares (Mariacpdb), Kaíky (kaiky-ferreira), Yris (YrisSother),Gabriel (ShugZin), Breno Yohan (Gu4xin), Laysa (Laysa-eSerrão).
 
